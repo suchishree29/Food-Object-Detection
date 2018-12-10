@@ -20,11 +20,7 @@ Food detection using Tensorflow Object Detection API
 ```bash
 sudo apt-get install -y git-core wget protobuf-compiler 
 ```
-2. Download and unzip [this entire repo from GitHub](https://github.com/wagonhelm/TF_ObjectDetection_API), either interactively, or by entering
-
-```bash
-git clone https://github.com/kumarkan/Food_Detection.git
-```
+2. Download this repo.
 
 3. Install Python Requirement
 
